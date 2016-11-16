@@ -8,3 +8,5 @@
 - [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) - Infinite Carousel View
 - [react-native-charts](https://github.com/Jpadilla1/react-native-ios-charts) - Generate charts (iOS only)
 - [react-native-charts-android](https://github.com/hongyin163/react-native-chart-android) - Generate Charts (Android)
+- [react-native-spinner](https://github.com/niftylettuce/react-native-loading-spinner-overlay) - Loading Spinner
+- [react-native-blur](https://github.com/voronianski/react-native-effects-view) - Blur
